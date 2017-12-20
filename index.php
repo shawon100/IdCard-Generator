@@ -260,8 +260,8 @@ a:link
 			<input type="text" class="form-control" name="si" placeholder="Your Signature (English) " required>
 			</div><br><br>
 			<div class="form-group">
-      <label for="">Your Picture</label>
-			<b> Upload Your Picture</b> <input type="file" name="file" required>
+      <label for="">Upload Your Picture</label>
+			<b></b> <input type="file" name="file" required>
 			</div><br>
 			<input type="submit" class="btn btn-success" name="" value="Submit">
 			</form>

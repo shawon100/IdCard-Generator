@@ -1,3 +1,3 @@
 # IdCard-Generator
 
-Demo Link : https://idcardgenerator.000webhostapp.com/
+Demo Link : http://idcardgenerator.000webhostapp.com/

@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title></title>
-</head>
-<body>
 
 <?php
 
@@ -66,7 +59,7 @@ if(trim($avl!=""))
 }
 imagepng($bgpic,$save);
 imagedestroy($bgpic);
-header("Location: ".$save); ?>
+header("Location: ".$save); 
 
-</body>
-</html>
+?>
+
